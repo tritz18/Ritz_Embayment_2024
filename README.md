@@ -1,1 +1,1 @@
-# Ritz_Embayment_2024
+# All R code used in Ritz and Farrell 2024 manuscript Temporal patterns of young-of-year fish emigration in Upper St. Lawrence River Typha-dominated freshwater coastal wetlands in relation to variation in water levels, temperature, and dissolved oxygen leading to hypoxia. Data files can be available upon request. 
